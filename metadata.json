@@ -1,0 +1,6 @@
+{
+  "name": "Stock Screener Tracking and Analysis",
+  "description": "A professional-grade dashboard for tracking recurring screener hits, calculating persistence and streaks, and analyzing stock conviction ranks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
